@@ -12,6 +12,8 @@ This Boilerplate includes
 - ES6 
 - Bootstrap 4
 - CSS 
+- Jest, enzyme, sinon(Unit Tetsing)
+- Prettifier (Auto prettify of code)
 
 ### Installation 
 
@@ -31,6 +33,10 @@ To run the JSON-Server alone. A configaration file has been given to setup the H
 `npm run lintfix` 
 To run the Es lint
 
+`npm run test`
+To run the unit tests
+
+
 ### Usage
 
 Fork this repository and use the code
@@ -44,6 +50,9 @@ Fork this repository and use the code
   * [Latest WebPack 4](https://github.com/reactjs/react-future)
   * [Learn ES6](https://babeljs.io/docs/learn-es6/), [ES6 Features](https://github.com/lukehoban/es6features#readme)
   * [JSON- Server](https://github.com/typicode/json-server)
+  * [Enzyme](http://airbnb.io/enzyme/docs/installation/)
+  * [Jest](https://facebook.github.io/jest/docs/en/getting-started.html)
+  * [Sinon](http://sinonjs.org/)
 
 ### About Author
 
@@ -55,8 +64,8 @@ https://github.com/rohithkksmy/JavaScript-function-that-will-find-the-sum-of-all
 https://github.com/rohithkksmy/kadane-s-Algorithm-JS
 https://github.com/rohithkksmy/maxLengthSubArrEqualTok
 
-Hey Guys use this repository and let me know if you any opinions. I always welcome suggestions. The next version will include Testing Framwork
-and later this will be converted to isomorphic using Python or node.js
+Hey Guys use this repository and let me know if you any opinions. I always welcome suggestions. The next version will be conver the isomorphic
+features by including Python or node.js
 
 
 
