@@ -1,18 +1,15 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    },
-    {
-      "firstName": "ROhith",
-      "lastName": "krishan",
-      "id": 2
+      "firstName": "Rohith",
+      "lastName": "Krishna",
+      "id": 2,
+      "aboutUser":"I am a Useless piece of shit"
     },
     {
       "firstName": "Anju ",
       "lastName": "Vava",
+      "aboutUser":"I am Anju Vava",
       "id": 3
     },
     {
